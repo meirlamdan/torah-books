@@ -1,0 +1,87 @@
+[
+  {
+    "name": "בראשית",
+    "path": "Tanakh/Torah/Genesis",
+    "category": "תנ\"ך"
+  },
+  {
+    "name": "שמות",
+    "path": "Tanakh/Torah/Exodus",
+    "category": "תנ\"ך"
+  },
+  {
+    "name": "ויקרא",
+    "path": "Tanakh/Torah/Leviticus",
+    "category": "תנ\"ך"
+  },
+  {
+    "name": "במדבר",
+    "path": "Tanakh/Torah/Numbers",
+    "category": "תנ\"ך"
+  },
+  {
+    "name": "דברים",
+    "path": "Tanakh/Torah/Deuteronomy",
+    "category": "תנ\"ך"
+  },
+  {
+    "name": "בבלי מסכת ברכות",
+    "path": "Talmud/Bavli/Seder Zeraim/Berakhot",
+    "category": "בבלי"
+  },
+  {
+    "name": "בבלי מסכת שבת",
+    "path": "Talmud/Bavli/Seder Moed/Shabbat",
+    "category": "בבלי"
+  },
+  {
+    "name": "בבלי מסכת סוכה",
+    "path": "Talmud/Bavli/Seder Moed/Sukkah",
+    "category": "בבלי"
+  },
+  {
+    "name": "בבלי מסכת תענית",
+    "path": "Talmud/Bavli/Seder Moed/Taanit",
+    "category": "בבלי"
+  },
+  {
+    "name": "בבלי מסכת יומא",
+    "path": "Talmud/Bavli/Seder Moed/Yoma",
+    "category": "בבלי"
+  },
+  {
+    "name": "בבלי מסכת ראש השנה",
+    "path": "Talmud/Bavli/Seder Moed/Rosh Hashanah",
+    "category": "בבלי"
+  },
+  {
+    "name": "בבלי מסכת פסחים",
+    "path": "Talmud/Bavli/Seder Moed/Pesachim",
+    "category": "בבלי"
+  },
+  {
+    "name": "בבלי מסכת מועד קטן",
+    "path": "Talmud/Bavli/Seder Moed/Moed Katan",
+    "category": "בבלי"
+  },
+  {
+    "name": "בבלי מסכת מגילה",
+    "path": "Talmud/Bavli/Seder Moed/Megillah",
+    "category": "בבלי"
+  },
+  {
+    "name": "בבלי מסכת עירובין",
+    "path": "Talmud/Bavli/Seder Moed/Eruvin",
+    "category": "בבלי"
+  },
+  {
+    "name": "בבלי מסכת חגיגה",
+    "path": "Talmud/Bavli/Seder Moed/Chagigah",
+    "category": "בבלי"
+  },
+  {
+    "name": "בבלי מסכת ביצה",
+    "path": "Talmud/Bavli/Seder Moed/Beitzah",
+    "category": "בבלי"
+  }
+]
