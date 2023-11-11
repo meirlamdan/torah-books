@@ -27,61 +27,519 @@
   {
     "name": "בבלי מסכת ברכות",
     "path": "Talmud/Bavli/Seder Zeraim/Berakhot",
-    "category": "בבלי"
+    "category": [
+      "בבלי"
+    ]
   },
   {
     "name": "בבלי מסכת שבת",
     "path": "Talmud/Bavli/Seder Moed/Shabbat",
-    "category": "בבלי"
+    "category": [
+      "בבלי"
+    ]
   },
   {
     "name": "בבלי מסכת סוכה",
     "path": "Talmud/Bavli/Seder Moed/Sukkah",
-    "category": "בבלי"
+    "category": [
+      "בבלי"
+    ]
   },
   {
     "name": "בבלי מסכת תענית",
     "path": "Talmud/Bavli/Seder Moed/Taanit",
-    "category": "בבלי"
+    "category": [
+      "בבלי"
+    ]
   },
   {
     "name": "בבלי מסכת יומא",
     "path": "Talmud/Bavli/Seder Moed/Yoma",
-    "category": "בבלי"
+    "category": [
+      "בבלי"
+    ]
   },
   {
     "name": "בבלי מסכת ראש השנה",
     "path": "Talmud/Bavli/Seder Moed/Rosh Hashanah",
-    "category": "בבלי"
+    "category": [
+      "בבלי"
+    ]
   },
   {
     "name": "בבלי מסכת פסחים",
     "path": "Talmud/Bavli/Seder Moed/Pesachim",
-    "category": "בבלי"
+    "category": [
+      "בבלי"
+    ]
   },
   {
     "name": "בבלי מסכת מועד קטן",
     "path": "Talmud/Bavli/Seder Moed/Moed Katan",
-    "category": "בבלי"
+    "category": [
+      "בבלי"
+    ]
   },
   {
     "name": "בבלי מסכת מגילה",
     "path": "Talmud/Bavli/Seder Moed/Megillah",
-    "category": "בבלי"
+    "category": [
+      "בבלי"
+    ]
   },
   {
     "name": "בבלי מסכת עירובין",
     "path": "Talmud/Bavli/Seder Moed/Eruvin",
-    "category": "בבלי"
+    "category": [
+      "בבלי"
+    ]
   },
   {
     "name": "בבלי מסכת חגיגה",
     "path": "Talmud/Bavli/Seder Moed/Chagigah",
-    "category": "בבלי"
+    "category": [
+      "בבלי"
+    ]
   },
   {
     "name": "בבלי מסכת ביצה",
     "path": "Talmud/Bavli/Seder Moed/Beitzah",
-    "category": "בבלי"
+    "category": [
+      "בבלי"
+    ]
+  },
+  {
+    "name": "בבלי מסכת עבודה זרה",
+    "path": "Talmud/Bavli/Seder Nezikin/Avodah Zarah",
+    "category": [
+      "בבלי"
+    ]
+  },
+  {
+    "name": "בבלי מסכת בבא מציעא",
+    "path": "Talmud/Bavli/Seder Nezikin/Bava Metzia",
+    "category": [
+      "בבלי"
+    ]
+  },
+  {
+    "name": "בבלי מסכת בבא קמא",
+    "path": "Talmud/Bavli/Seder Nezikin/Bava Kamma",
+    "category": [
+      "בבלי"
+    ]
+  },
+  {
+    "name": "בבלי מסכת בתרא",
+    "path": "Talmud/Bavli/Seder Nezikin/Bava Batra",
+    "category": [
+      "בבלי"
+    ]
+  },
+  {
+    "name": "בבלי מסכת הוריות",
+    "path": "Talmud/Bavli/Seder Nezikin/Horayot",
+    "category": [
+      "בבלי"
+    ]
+  },
+  {
+    "name": "בבלי מסכת מכות",
+    "path": "Talmud/Bavli/Seder Nezikin/Makkot",
+    "category": [
+      "בבלי"
+    ]
+  },
+  {
+    "name": "בבלי מסכת סנהדרין",
+    "path": "Talmud/Bavli/Seder Nezikin/Sanhedrin",
+    "category": [
+      "בבלי"
+    ]
+  },
+  {
+    "name": "בבלי מסכת שבועות",
+    "path": "Talmud/Bavli/Seder Nezikin/Shevuot",
+    "category": [
+      "בבלי"
+    ]
+  },
+  {
+    "name": "בבלי מסכת ערכין",
+    "path": "Talmud/Bavli/Seder Kodashim/Arakhin",
+    "category": [
+      "בבלי"
+    ]
+  },
+  {
+    "name": "בבלי מסכת בכורות",
+    "path": "Talmud/Bavli/Seder Kodashim/Bekhorot",
+    "category": [
+      "בבלי"
+    ]
+  },
+  {
+    "name": "בבלי מסכת חולין",
+    "path": "Talmud/Bavli/Seder Kodashim/Chullin",
+    "category": [
+      "בבלי"
+    ]
+  },
+  {
+    "name": "בבלי מסכת כריתות",
+    "path": "Talmud/Bavli/Seder Kodashim/Keritot",
+    "category": [
+      "בבלי"
+    ]
+  },
+  {
+    "name": "בבלי מסכת מעילה",
+    "path": "Talmud/Bavli/Seder Kodashim/Meilah",
+    "category": [
+      "בבלי"
+    ]
+  },
+  {
+    "name": "בבלי מסכת מנחות",
+    "path": "Talmud/Bavli/Seder Kodashim/Menachot",
+    "category": [
+      "בבלי"
+    ]
+  },
+  {
+    "name": "בבלי מסכת תמיד",
+    "path": "Talmud/Bavli/Seder Kodashim/Tamid",
+    "category": [
+      "בבלי"
+    ]
+  },
+  {
+    "name": "בבלי מסכת תמורה",
+    "path": "Talmud/Bavli/Seder Kodashim/Temurah",
+    "category": [
+      "בבלי"
+    ]
+  },
+  {
+    "name": "בבלי מסכת זבחים",
+    "path": "Talmud/Bavli/Seder Kodashim/Zevachim",
+    "category": [
+      "בבלי"
+    ]
+  },
+  {
+    "name": "בבלי מסכת גיטין",
+    "path": "Talmud/Bavli/Seder Nashim/Gittin",
+    "category": [
+      "בבלי"
+    ]
+  },
+  {
+    "name": "בבלי מסכת כתובות",
+    "path": "Talmud/Bavli/Seder Nashim/Ketubot",
+    "category": [
+      "בבלי"
+    ]
+  },
+  {
+    "name": "בבלי מסכת קידושין",
+    "path": "Talmud/Bavli/Seder Nashim/Kiddushin",
+    "category": [
+      "בבלי"
+    ]
+  },
+  {
+    "name": "בבלי מסכת נזיר",
+    "path": "Talmud/Bavli/Seder Nashim/Nazir",
+    "category": [
+      "בבלי"
+    ]
+  },
+  {
+    "name": "בבלי מסכת נדרים",
+    "path": "Talmud/Bavli/Seder Nashim/Nedarim",
+    "category": [
+      "בבלי"
+    ]
+  },
+  {
+    "name": "בבלי מסכת סוטה",
+    "path": "Talmud/Bavli/Seder Nashim/Sotah",
+    "category": [
+      "בבלי"
+    ]
+  },
+  {
+    "name": "בבלי מסכת יבמות",
+    "path": "Talmud/Bavli/Seder Nashim/Yevamot",
+    "category": [
+      "בבלי"
+    ]
+  },
+  {
+    "name": "בבלי מסכת נדה",
+    "path": "Talmud/Bavli/Seder Tahorot/Niddah",
+    "category": [
+      "בבלי"
+    ]
+  },
+  {
+    "name": "ירושלמי מסכת ביצה",
+    "path": "Talmud/Yerushalmi/Seder Moed/Jerusalem Talmud Beitzah",
+    "category": [
+      "ירושלמי"
+    ]
+  },
+  {
+    "name": "ירושלמי מסכת חגיגה",
+    "path": "Talmud/Yerushalmi/Seder Moed/Jerusalem Talmud Chagigah",
+    "category": [
+      "ירושלמי"
+    ]
+  },
+  {
+    "name": "ירושלמי מסכת עירובין",
+    "path": "Talmud/Yerushalmi/Seder Moed/Jerusalem Talmud Eruvin",
+    "category": [
+      "ירושלמי"
+    ]
+  },
+  {
+    "name": "ירושלמי מסכת מגילה",
+    "path": "Talmud/Yerushalmi/Seder Moed/Jerusalem Talmud Megillah",
+    "category": [
+      "ירושלמי"
+    ]
+  },
+  {
+    "name": "ירושלמי מסכת מועד קטן",
+    "path": "Talmud/Yerushalmi/Seder Moed/Jerusalem Talmud Moed Kattan",
+    "category": [
+      "ירושלמי"
+    ]
+  },
+  {
+    "name": "ירושלמי מסכת פסחים",
+    "path": "Talmud/Yerushalmi/Seder Moed/Jerusalem Talmud Pesachim",
+    "category": [
+      "ירושלמי"
+    ]
+  },
+  {
+    "name": "ירושלמי מסכת ראש השנה",
+    "path": "Talmud/Yerushalmi/Seder Moed/Jerusalem Talmud Rosh Hashanah",
+    "category": [
+      "ירושלמי"
+    ]
+  },
+  {
+    "name": "ירושלמי מסכת שבת",
+    "path": "Talmud/Yerushalmi/Seder Moed/Jerusalem Talmud Shabbat",
+    "category": [
+      "ירושלמי"
+    ]
+  },
+  {
+    "name": "ירושלמי מסכת שקלים",
+    "path": "Talmud/Yerushalmi/Seder Moed/Jerusalem Talmud Shekalim",
+    "category": [
+      "ירושלמי"
+    ]
+  },
+  {
+    "name": "ירושלמי מסכת סוכה",
+    "path": "Talmud/Yerushalmi/Seder Moed/Jerusalem Talmud Sukkah",
+    "category": [
+      "ירושלמי"
+    ]
+  },
+  {
+    "name": "ירושלמי מסכת תענית",
+    "path": "Talmud/Yerushalmi/Seder Moed/Jerusalem Talmud Ta'anit",
+    "category": [
+      "ירושלמי"
+    ]
+  },
+  {
+    "name": "ירושלמי מסכת גיטין",
+    "path": "Talmud/Yerushalmi/Seder Nashim/Jerusalem Talmud Gittin",
+    "category": [
+      "ירושלמי"
+    ]
+  },
+  {
+    "name": "ירושלמי מסכת כתובות",
+    "path": "Talmud/Yerushalmi/Seder Nashim/Jerusalem Talmud Ketubot",
+    "category": [
+      "ירושלמי"
+    ]
+  },
+  {
+    "name": "ירושלמי מסכת נזיר",
+    "path": "Talmud/Yerushalmi/Seder Nashim/Jerusalem Talmud Nazir",
+    "category": [
+      "ירושלמי"
+    ]
+  },
+  {
+    "name": "ירושלמי מסכת נדרים",
+    "path": "Talmud/Yerushalmi/Seder Nashim/Jerusalem Talmud Nedarim",
+    "category": [
+      "ירושלמי"
+    ]
+  },
+  {
+    "name": "ירושלמי מסכת סוטה",
+    "path": "Talmud/Yerushalmi/Seder Nashim/Jerusalem Talmud Sotah",
+    "category": [
+      "ירושלמי"
+    ]
+  },
+  {
+    "name": "ירושלמי מסכת יבמות",
+    "path": "Talmud/Yerushalmi/Seder Nashim/Jerusalem Talmud Yevamot",
+    "category": [
+      "ירושלמי"
+    ]
+  },
+  {
+    "name": "ירושלמי מסכת עבודה זרה",
+    "path": "Talmud/Yerushalmi/Seder Nezikin/Jerusalem Talmud Avodah Zarah",
+    "category": [
+      "ירושלמי"
+    ]
+  },
+  {
+    "name": "ירושלמי מסכת בבא בתרא",
+    "path": "Talmud/Yerushalmi/Seder Nezikin/Jerusalem Talmud Bava Batra",
+    "category": [
+      "ירושלמי"
+    ]
+  },
+  {
+    "name": "ירושלמי מסכת בבא קמא",
+    "path": "Talmud/Yerushalmi/Seder Nezikin/Jerusalem Talmud Bava Kamma",
+    "category": [
+      "ירושלמי"
+    ]
+  },
+  {
+    "name": "ירושלמי מסכת בבא מציעא",
+    "path": "Talmud/Yerushalmi/Seder Nezikin/Jerusalem Talmud Bava Metzsia",
+    "category": [
+      "ירושלמי"
+    ]
+  },
+  {
+    "name": "ירושלמי מסכת הוריות",
+    "path": "Talmud/Yerushalmi/Seder Nezikin/Jerusalem Talmud Horayot",
+    "category": [
+      "ירושלמי"
+    ]
+  },
+  {
+    "name": "ירושלמי מסכת מכות",
+    "path": "Talmud/Yerushalmi/Seder Nezikin/Jerusalem Talmud Makkot",
+    "category": [
+      "ירושלמי"
+    ]
+  },
+  {
+    "name": "ירושלמי מסכת סנהדרין",
+    "path": "Talmud/Yerushalmi/Seder Nezikin/Jerusalem Talmud Sanhedrin",
+    "category": [
+      "ירושלמי"
+    ]
+  },
+  {
+    "name": "ירושלמי מסכת שבועות",
+    "path": "Talmud/Yerushalmi/Seder Nezikin/Jerusalem Talmud Shevuot",
+    "category": [
+      "ירושלמי"
+    ]
+  },
+  {
+    "name": "ירושלמי מסכת נדה",
+    "path": "Talmud/Yerushalmi/Seder Tahorot/Jerusalem Talmud Niddah",
+    "category": [
+      "ירושלמי"
+    ]
+  },
+  {
+    "name": "ירושלמי מסכת ברכות",
+    "path": "Talmud/Yerushalmi/Seder Zeraim/Jerusalem Talmud Berakhot",
+    "category": [
+      "ירושלמי"
+    ]
+  },
+  {
+    "name": "ירושלמי מסכת ביכורים",
+    "path": "Talmud/Yerushalmi/Seder Zeraim/Jerusalem Talmud Bikkurim",
+    "category": [
+      "ירושלמי"
+    ]
+  },
+  {
+    "name": "ירושלמי מסכת דמאי",
+    "path": "Talmud/Yerushalmi/Seder Zeraim/Jerusalem Talmud Demai",
+    "category": [
+      "ירושלמי"
+    ]
+  },
+  {
+    "name": "ירושלמי מסכת חלה",
+    "path": "Talmud/Yerushalmi/Seder Zeraim/Jerusalem Talmud Hallah",
+    "category": [
+      "ירושלמי"
+    ]
+  },
+  {
+    "name": "ירושלמי מסכת כלאים",
+    "path": "Talmud/Yerushalmi/Seder Zeraim/Jerusalem Talmud Kilayim",
+    "category": [
+      "ירושלמי"
+    ]
+  },
+  {
+    "name": "ירושלמי מסכת מעשר שני",
+    "path": "Talmud/Yerushalmi/Seder Zeraim/Jerusalem Talmud Ma'aser Sheni",
+    "category": [
+      "ירושלמי"
+    ]
+  },
+  {
+    "name": "ירושלמי מסכת מעשרות",
+    "path": "Talmud/Yerushalmi/Seder Zeraim/Jerusalem Talmud Ma'asrot",
+    "category": [
+      "ירושלמי"
+    ]
+  },
+  {
+    "name": "ירושלמי מסכת ערלה",
+    "path": "Talmud/Yerushalmi/Seder Zeraim/Jerusalem Talmud Orlah",
+    "category": [
+      "ירושלמי"
+    ]
+  },
+  {
+    "name": "ירושלמי מסכת פאה",
+    "path": "Talmud/Yerushalmi/Seder Zeraim/Jerusalem Talmud Peah",
+    "category": [
+      "ירושלמי"
+    ]
+  },
+  {
+    "name": "ירושלמי מסכת שביעית",
+    "path": "Talmud/Yerushalmi/Seder Zeraim/Jerusalem Talmud Shevi'it",
+    "category": [
+      "ירושלמי"
+    ]
+  },
+  {
+    "name": "ירושלמי מסכת תרומות",
+    "path": "Talmud/Yerushalmi/Seder Zeraim/Jerusalem Talmud Terumot",
+    "category": [
+      "ירושלמי"
+    ]
   }
 ]
