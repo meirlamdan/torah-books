@@ -89,7 +89,7 @@ const showText = async () => {
     <div v-if="selectedBook" class="flex justify-center gap-4 mt-20">
       <button
         class="bg-blue-800 text-white px-2 py-1 rounded-md flex gap-2 items-center focus:outline-none hover:bg-blue-900 hover:shadow-lg"
-        @click="showText" :disabled="inProgress">
+        @click="showText" :disabled="inProgressShowText">
         <span>הצג טקסט</span>
         <div v-if="inProgressShowText"
           class="w-4 h-4 rounded-full animate-spin border-2 border-solid border-white border-t-transparent">
@@ -97,7 +97,7 @@ const showText = async () => {
       </button>
       <button
         class="bg-blue-800 text-white px-2 py-1 rounded-md flex gap-2 items-center focus:outline-none hover:bg-blue-900 hover:shadow-lg"
-        @click="showText" :disabled="inProgress">
+        @click="getFile('json')" :disabled="inProgressFileJson">
         <span>הורד קובץ json</span>
         <div v-if="inProgressFileJson"
           class="w-4 h-4 rounded-full animate-spin border-2 border-solid border-white border-t-transparent">
@@ -105,7 +105,7 @@ const showText = async () => {
       </button>
       <button
         class="bg-blue-800 text-white px-2 py-1 rounded-md flex gap-2 items-center focus:outline-none hover:bg-blue-900 hover:shadow-lg"
-        @click="showText" :disabled="inProgress">
+        @click="getFile('txt')" :disabled="inProgressFileTex">
         <span>הורד קובץ טקסט</span>
         <div v-if="inProgressFileTex"
           class="w-4 h-4 rounded-full animate-spin border-2 border-solid border-white border-t-transparent">
