@@ -536,10 +536,144 @@
     ]
   },
   {
-    "name": "ירושלמי מסכת תרומות",
-    "path": "Talmud/Yerushalmi/Seder Zeraim/Jerusalem Talmud Terumot",
+    "name": "אבודרהם",
+    "path": "Halakhah/Abudarham",
     "category": [
-      "ירושלמי"
+      "הלכה",
+      "ראשונים"
+    ]
+  },
+  {
+    "name": "ערוך השולחן",
+    "path": "Halakhah/Arukh HaShulchan",
+    "category": [
+      "הלכה"
+    ]
+  },
+  {
+    "name": "עבודת הקודש",
+    "path": "Halakhah/Avodat HaKodesh",
+    "category": [
+      "הלכה",
+      "ראשונים"
+    ]
+  },
+  {
+    "name": "בדיקת הסכין",
+    "path": "Halakhah/Bedikat HaSakin",
+    "category": [
+      "הלכה",
+      "ראשונים"
+    ]
+  },
+  {
+    "name": "בן איש חי",
+    "path": "Halakhah/Ben Ish Hai",
+    "category": [
+      "הלכה"
+    ]
+  },
+  {
+    "name": "חיי אדם",
+    "path": "Halakhah/Chayei Adam",
+    "category": [
+      "הלכה"
+    ]
+  },
+  {
+    "name": "חפץ חיים",
+    "path": "Halakhah/Chofetz Chaim",
+    "category": [
+      "הלכה"
+    ]
+  },
+  {
+    "name": "חכמת אדם",
+    "path": "Halakhah/Chokhmat Adam",
+    "category": [
+      "הלכה"
+    ]
+  },
+  {
+    "name": "דיני דגרמי להרמב\"ן",
+    "path": "Halakhah/Dina d'Garmei",
+    "category": [
+      "הלכה",
+      "ראשונים"
+    ]
+  },
+  {
+    "name": "גבורת אנשים",
+    "path": "Halakhah/Gevurat Anashim",
+    "category": [
+      "הלכה"
+    ]
+  },
+  {
+    "name": "הלכות גדולות",
+    "path": "Halakhah/Halakhot Gedolot",
+    "category": [
+      "הלכה"
+    ]
+  },
+  {
+    "name": "איסור והיתר לרבינו ירוחם",
+    "path": "Halakhah/Issur V'Heter L'Rabbeinu Yerucham",
+    "category": [
+      "הלכה",
+      "ראשונים"
+    ]
+  },
+  {
+    "name": "איסור והיתר לרש\"י",
+    "path": "Halakhah/Issur veHeter leRashi",
+    "category": [
+      "הלכה",
+      "ראשונים"
+    ]
+  },
+  {
+    "name": "קסת הסופר",
+    "path": "Halakhah/Keset HaSofer",
+    "category": [
+      "הלכה"
+    ]
+  },
+  {
+    "name": "קיצור ספר חרדים",
+    "path": "Halakhah/Kitzur Sefer Haredim of Rabbi Elazar Azcari",
+    "category": [
+      "הלכה"
+    ]
+  },
+  {
+    "name": "כל בו",
+    "path": "Halakhah/Kol Bo",
+    "category": [
+      "הלכה",
+      "ראשונים"
+    ]
+  },
+  {
+    "name": "מעשה רב",
+    "path": "Halakhah/Maaseh Rav",
+    "category": [
+      "הלכה"
+    ]
+  },
+  {
+    "name": "מחזור ויטרי",
+    "path": "Halakhah/Machzor Vitry",
+    "category": [
+      "הלכה",
+      "ראשונים"
+    ]
+  },
+  {
+    "name": "מטה אפרים",
+    "path": "Halakhah/Mateh Efrayim",
+    "category": [
+      "הלכה"
     ]
   }
 ]
